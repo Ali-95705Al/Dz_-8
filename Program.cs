@@ -58,4 +58,4 @@ void uporyadok(int[,] array)
 
 uporyadok(randomArray);
 Console.WriteLine("\n Отсортированный массив: ");
-printm(randomArray);
+print m(randomArray);
